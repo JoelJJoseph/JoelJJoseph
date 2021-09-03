@@ -15,18 +15,20 @@
 
 
 
-### HOWDY I am Joel John Joseph 👋
-- 🔭 I’m currently working on Contribution
-- 🌱 I’m currently learning Bachelors in computer application in Data analytics
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with Documentation and tags
-- 📫 How to reach me on twitter: @Deathstroke1810
-- 😄 Pronouns:He/his
-- ⚡ Fun fact: I have 3 J on my name
+  ### HOWDY I am Joel John Joseph 👋
+  - 🔭 I’m currently working on Contribution
+  - 🌱 I’m currently learning Bachelors in computer application in Data analytics
+  - 👯 I’m looking to collaborate on 
+  - 🤔 I’m looking for help with Documentation and tags
+  - 📫 How to reach me on twitter: @Deathstroke1810
+  - 😄 Pronouns:He/his
+  - ⚡ Fun fact: I have 3 J on my name
     
     
     
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=JoelJJoseph&theme=radical)
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+</a>
 
 
 
