@@ -1,8 +1,7 @@
+<div>
 <table width="100%"> 
   <tr>
   <td width="50%">
-      
-&nbsp; <br> 
   
 &nbsp; <br> [![Spotify](https://joel-jj-oseph.vercel.app/api/spotify)](https://open.spotify.com/user/31de5agmmee5t4x7noztgj3u3tce)
     
@@ -21,6 +20,8 @@
   - ⚡ Fun fact: I have 3 J on my name
     
   </tr>   
+  </div>
+  
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoelJJoseph&label=Views&color=blue&style=plastic" alt="JoelJJoseph" /> </p>
 
   <a href="https://github.com/JoelJJoseph">
