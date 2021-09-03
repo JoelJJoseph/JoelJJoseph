@@ -7,9 +7,6 @@
 
 
 
-## Example
-
-![spotify-github-profile](/img/example.svg)
 
   </td>
   <td width="50%">
