@@ -6,3 +6,7 @@
 - 📫 How to reach me on twitter: @Deathstroke1810
 - 😄 Pronouns:He/his
 - ⚡ Fun fact: I have 3 J on my name
+
+
+
+[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
