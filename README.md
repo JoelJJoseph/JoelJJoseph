@@ -4,8 +4,8 @@
       
 &nbsp; <br> 
     
-<iframe src="https://open.spotify.com/embed/track/1UgMLFmeVyphjePcN1TNpq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+[<img src="/img/btn-spotify.png">](https://spotify-github-profile.vercel.app/api/login)
 
 ## Example
 
