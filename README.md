@@ -3,7 +3,7 @@
   <td width="50%">
       
 &nbsp; <br> 
-    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31de5agmmee5t4x7noztgj3u3tce&cover_image=true&theme=default)](https://github.com/JoelJJoseph/JoelJJoseph)
+  
 &nbsp; <br> [![Spotify](https://joel-jj-oseph.vercel.app/api/spotify)](https://open.spotify.com/user/31de5agmmee5t4x7noztgj3u3tce)
     
    
