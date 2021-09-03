@@ -11,8 +11,7 @@
   <td width="50%">
 
 
-
-  ### HOWDY I am Joel John Joseph 👋
+ ### HOWDY I am Joel John Joseph 👋
   - 🔭 I’m currently working on Contribution
   - 🌱 I’m currently learning Bachelors in computer application in Data analytics
   - 👯 I’m looking to collaborate on 
