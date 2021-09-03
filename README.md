@@ -6,9 +6,6 @@
   
 &nbsp; <br> [![Spotify](https://joel-jj-oseph.vercel.app/api/spotify)](https://open.spotify.com/user/31de5agmmee5t4x7noztgj3u3tce)
     
-   
-    
-   
 
   </td>
   <td width="50%">
@@ -24,7 +21,7 @@
   - 😄 Pronouns:He/his
   - ⚡ Fun fact: I have 3 J on my name
     
-    
+  </tr>   
     
 <a href="https://github.com/JoelJJoseph">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelJJoseph&theme=radical&hide_langs_below=1" />
