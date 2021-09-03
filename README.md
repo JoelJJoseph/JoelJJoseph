@@ -23,6 +23,10 @@
 - 📫 How to reach me on twitter: @Deathstroke1810
 - 😄 Pronouns:He/his
 - ⚡ Fun fact: I have 3 J on my name
+    
+    
+    
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api username=JoelJJoseph &theme=radical)
 
 
 
