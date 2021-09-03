@@ -38,7 +38,7 @@
     
 
   
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoelJJoseph&label=Views&color=yellow&style=plastic" alt="JoelJJoseph" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoelJJoseph&label=Views&color=yellow&style=plastic" alt="JoelJJoseph" /> </p>
 
   <a href="https://github.com/JoelJJoseph">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelJJoseph&theme=radical&hide_langs_below=1" />
