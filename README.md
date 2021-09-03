@@ -26,8 +26,8 @@
     
     
     
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+<a href="https://github.com/JoelJJoseph">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelJJoseph&theme=radical&hide_langs_below=1" />
 </a>
 
 
