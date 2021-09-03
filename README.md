@@ -3,7 +3,7 @@
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://joel-jj-oseph.vercel.app//api/spotify)](https://open.spotify.com/user)
+&nbsp; <br> [![Spotify](https://joel-jj-oseph.vercel.app//api/spotify)](https://open.spotify.com)
 
   </td>
   <td width="50%">
