@@ -4,6 +4,7 @@
       
 &nbsp; <br> 
 [<img src="/img/btn-spotify.png">](https://spotify-github-profile.vercel.app/api/login)
+    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31de5agmmee5t4x7noztgj3u3tce&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
     
    
