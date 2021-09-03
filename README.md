@@ -27,7 +27,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelJJoseph&theme=radical&hide_langs_below=1" />
   </a>
   <a href="https://github.com/iampawan">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoelJJoseph&show_icons=true&theme=light&line_height=27" alt="Joel's github stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoelJJoseph&show_icons=true&theme=blue-green&line_height=27" alt="Joel's github stats"/>
   </a>
 
 
