@@ -4,7 +4,7 @@
       
 &nbsp; <br> 
 
-[<img src="/img/btn-spotify.png">](https://sportify-joeljjoseph.vercel.app/api/login)
+[<img src="/img/btn-spotify.png">](hhttps://spotify-github-profile.vercel.app/api/login)
 
 ## Example
 
