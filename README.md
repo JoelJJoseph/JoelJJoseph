@@ -5,7 +5,7 @@
 &nbsp; <br> 
     [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31de5agmmee5t4x7noztgj3u3tce&cover_image=true&theme=default)](https://github.com/JoelJJoseph/JoelJJoseph)
     
-[![Spotify](https://.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://vercel.com/joeljjoseph/sportify/F7q4npS9pBs6K4YNw5gNTDsKZTZx.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
     
    
 
