@@ -3,8 +3,8 @@
   <td width="50%">
       
 &nbsp; <br> 
+[<img src="/img/btn-spotify.png">](https://spotify-github-profile.vercel.app/api/login)
 
-[<img src="/img/btn-spotify.png">](hhttps://spotify-github-profile.vercel.app/api/login)
 
 ## Example
 
