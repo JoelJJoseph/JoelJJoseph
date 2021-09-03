@@ -3,9 +3,13 @@
   <td width="50%">
       
 &nbsp; <br> 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31de5agmmee5t4x7noztgj3u3tce&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+ - Click `Connect with Spotify` button below to grant permission
 
+[<img src="/img/btn-spotify.png">](https://spotify-github-profile.vercel.app/api/login)
 
+## Example
+
+![spotify-github-profile](/img/example.svg)
 
   </td>
   <td width="50%">
