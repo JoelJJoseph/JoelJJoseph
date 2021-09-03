@@ -5,7 +5,7 @@
 &nbsp; <br> 
  - Click `Connect with Spotify` button below to grant permission
 
-[<img src="/img/btn-spotify.png">](https://spotify-github-profile.vercel.app/api/login)
+[<img src="/img/btn-spotify.png">](https://sportify-joeljjoseph.vercel.app/api/login)
 
 ## Example
 
