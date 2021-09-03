@@ -1,4 +1,3 @@
-<div>
 <table width="100%"> 
   <tr>
   <td width="50%">
@@ -20,7 +19,7 @@
   - ⚡ Fun fact: I have 3 J on my name
     
   </tr>   
-  </div>
+  </table>
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoelJJoseph&label=Views&color=yellow&style=plastic" alt="JoelJJoseph" /> </p>
 
