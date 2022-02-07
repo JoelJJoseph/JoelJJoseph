@@ -9,7 +9,8 @@
   <td width="50%">
 
 
- ### HOWDY I am Joel John Joseph 👋
+ ### HOWDY I am Joel John Joseph![Hi](https://user-images.githubusercontent.com/72274851/152804344-275f01b6-3d85-4a24-94a8-c449e516e52a.gif)
+
   - 🔭 I’m currently working on Contribution
   - 🌱 I’m currently learning Bachelors in computer application in Data analytics
   - 👯 I’m looking to collaborate on 
