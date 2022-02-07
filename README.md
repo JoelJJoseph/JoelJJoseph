@@ -42,8 +42,7 @@
 
   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoelJJoseph&label=Views&color=yellow&style=plastic" alt="JoelJJoseph" /> </p>
-**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{JoelJJoseph}/count.svg)
+
 
 <!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 
 
