@@ -52,6 +52,7 @@
     <a href="https://github.com/JoelJJoseph">
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoelJJoseph&show_icons=true&theme=blue-green&line_height=27" alt="Joel's github stats"/>
     </a>
-![My github activity graph](https://activity-graph.herokuapp.com/graph?username=JoelJJoseph&theme=dracula&custom_title=My%20Commits%20Graph%20&hide_border=true)
-
+<a href="https://github.com/JoelJJoseph">
+     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=JoelJJoseph&theme=dracula&custom_title=My%20Commits%20Graph%20&hide_border=true" alt="Joel's github stats"/>
+    </a>
 
