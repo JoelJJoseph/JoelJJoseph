@@ -42,7 +42,10 @@
 
   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoelJJoseph&label=Views&color=yellow&style=plastic" alt="JoelJJoseph" /> </p>
- ![VisitorCount](https://profile-counter.glitch.me/{JoelJJoseph}/count.svg)
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{JoelJJoseph}/count.svg)
+
+<!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 
 
   <a href="https://github.com/JoelJJoseph">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelJJoseph&theme=radical&hide_langs_below=1" />
