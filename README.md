@@ -103,8 +103,7 @@
 
   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoelJJoseph&label=Views&color=yellow&style=plastic" alt="JoelJJoseph" /> </p>
- 
- <a href="https://idemoed.vercel.app/api/wall?username=JoelJJoseph">
+
 
 
 
