@@ -1,8 +1,7 @@
 <table width="100%"> 
   <tr>
   <td width="50%">
-  
-&nbsp; <br> [![Spotify](https://joel-jj-oseph.vercel.app/api/spotify)](https://open.spotify.com/user/31de5agmmee5t4x7noztgj3u3tce)
+  &nbsp; <br> [![Spotify](https://joel-jj-oseph.vercel.app/api/spotify)](https://open.spotify.com/user/31de5agmmee5t4x7noztgj3u3tce)
   <p align="middle"> <img src="https://user-images.githubusercontent.com/72274851/152814876-73362bcc-bde6-411f-ba80-235e911f276f.gif" width="300px"> </p>
 
 
