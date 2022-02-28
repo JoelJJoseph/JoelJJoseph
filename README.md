@@ -1,7 +1,7 @@
 <table width="100%"> 
   <tr>
   <td width="50%">
-  &nbsp; <br> [![Spotify](https://joel-jj-oseph.vercel.app/api/spotify)](https://open.spotify.com/user/31de5agmmee5t4x7noztgj3u3tce)</br>
+  &nbsp; <br> [![Spotify](https://joel-jj-oseph.vercel.app/api/spotify)](https://open.spotify.com/user/31de5agmmee5t4x7noztgj3u3tce)
   <p align="middle"> <img src="https://user-images.githubusercontent.com/72274851/152814876-73362bcc-bde6-411f-ba80-235e911f276f.gif" width="300px"> </p>
 
 
@@ -10,7 +10,7 @@
 
 
 ### <p align="middle"> <img src="https://user-images.githubusercontent.com/72274851/152816504-1f9f0a08-82c8-41dd-86c6-e1338e337888.gif" width="200px"></h2> I am Joel John Joseph!<img src="https://user-images.githubusercontent.com/72274851/152804344-275f01b6-3d85-4a24-94a8-c449e516e52a.gif" width="40px"></h2></p>
-<br />
+<br/>
 
 
   - 🔭 I’m currently working on Contribution
