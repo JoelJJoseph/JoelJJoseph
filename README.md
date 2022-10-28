@@ -107,7 +107,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoelJJoseph&label=Views&color=yellow&style=plastic" alt="JoelJJoseph" /> </p>
 
 
-
+[![@joeljj's Holopin board](https://holopin.me/joeljj)](https://holopin.io/@joeljj)
 
 
   <a href="https://github.com/JoelJJoseph">
@@ -126,4 +126,4 @@
      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=JoelJJoseph&theme=dracula&custom_title=My%20Commits%20Graph%20&hide_border=true" alt="Joel's github stats"/>
     </a>
 
-<a href=[![@joeljj's Holopin board](https://holopin.me/joeljj)](https://holopin.io/@joeljj)">
+
