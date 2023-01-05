@@ -123,7 +123,7 @@
 </a>
   </p>
 <a href="https://github.com/JoelJJoseph">
-     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=JoelJJoseph&theme=dracula&custom_title=My%20Commits%20Graph%20&hide_border=true" alt="Joel's github stats"/>
+     <img align="center" src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoelJJoseph&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" alt="Joel's github stats"/>
     </a>
 
 
