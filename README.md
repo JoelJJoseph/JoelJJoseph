@@ -122,7 +122,8 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=JoelJJoseph&column=8&theme=gruvbox&no-frame=true"/>
 </a>
   </p>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoelJJoseph&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/JoelJJoseph">
+     <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=JoelJJoseph&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Joel's github stats"/>
     </a>
 
 
