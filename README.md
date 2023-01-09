@@ -17,10 +17,10 @@
 
 
   - 🔭 I’m currently working on Contribution
-  - 🌱 I’m currently learning Bachelors in computer application in Data analytics
+  - 🌱 I’m currently learning Masters in computer application in Data analytics
   - 👯 I’m looking to collaborate on 
   - 🤔 I’m looking for help with Documentation and tags
-  - 📫 How to reach me on twitter:[Twitter - @Deathstroke1810](https://twitter.com/Deathstroke1810)
+  - 📫 How to reach me on twitter:[Linkedin - @Joel John Joseph]((https://www.linkedin.com/in/joel-john-joseph-2b77a41a4/))
   - 😄 Pronouns:He/his
   - ⚡ Fun fact: I have 3 J on my name
     
