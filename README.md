@@ -118,7 +118,7 @@
     </a>
     <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
-<a href="https://github.com/syedareehaquasar">
+<a href="https://github.com/JoelJJoseph">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=JoelJJoseph&column=8&theme=gruvbox&no-frame=true"/>
 </a>
   </p>
