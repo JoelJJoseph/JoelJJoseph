@@ -27,7 +27,7 @@
   </tr>   
   </table>
   
- ### Portfolio
+ ## Portfolio
  <a href="joeljjoseph.github.io/portfolio/">
   <img src="https://github.com/JoelJJoseph/JoelJJoseph/blob/main/api/portfolio_JJJ_new.gif?raw=true" width="800px" height="400px">
 </a>
