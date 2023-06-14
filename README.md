@@ -27,6 +27,11 @@
   </tr>   
   </table>
   
+ ### Portfolio
+ <a href="joeljjoseph.github.io/portfolio/">
+  <img src="https://github.com/JoelJJoseph/JoelJJoseph/blob/main/api/portfolio_JJJ_new.gif?raw=true" width="800px" height="400px">
+</a>
+  
  ### Languages and Tools:
 ![C](https://img.shields.io/badge/C%20-%23E34F26.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
