@@ -5,7 +5,7 @@
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/7aufi1bykug93o9rhj40qksg4)
 
 
-  <p align="middle"> <img src="https://user-images.githubusercontent.com/72274851/152814876-73362bcc-bde6-411f-ba80-235e911f276f.gif" width="300px"> </p>
+  <p align="middle"> <img src="https://user-images.githubusercontent.com/72274851/152816504-1f9f0a08-82c8-41dd-86c6-e1338e337888.gif" width="300px"> </p>
 
 
   </td>
